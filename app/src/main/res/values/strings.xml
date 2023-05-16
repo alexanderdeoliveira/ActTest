@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ActTest</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_users">Usuários</string>
+    <string name="title_repositories">Repositórios</string>
+    <string name="title_user_detail">Detalhes do usuário</string>
+    <string name="get_users_failure">Não foi possível buscar usuários. Por favor, tente novamente!</string>
+    <string name="get_user_failure">Não foi possível buscar usuário. Por favor, tente novamente!</string>
+    <string name="get_repositories_failure">Não foi possível carregar informações do usuário. Por favor, tente novamente!</string>
+    <string name="text_label_username">Username</string>
+    <string name="text_button_search">Buscar</string>
 </resources>
